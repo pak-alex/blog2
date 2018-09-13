@@ -6,4 +6,6 @@ tags: media test
 author: Alex
 ---
 
-This is a sample post. 
+This is a sample post.
+
+author: Pak
